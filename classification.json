@@ -1,0 +1,3676 @@
+{
+ "version": 1,
+ "note": "Propositions issues d'une revue visuelle. Rien n'est publié.",
+ "excluded": [
+  {
+   "photo": "p0048",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0061",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0062",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0063",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0078",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0100",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0107",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0108",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0133",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0184",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0190",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0191",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0192",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0202",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0216",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0224",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0225",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0226",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0308",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0339",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0181",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0183",
+   "reason": "Capture de conversation client (données privées)"
+  },
+  {
+   "photo": "p0004",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0080",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0086",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0087",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0088",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0089",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0090",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0098",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0099",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0101",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0102",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0103",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0104",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0105",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0106",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0109",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0122",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0144",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0149",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0150",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0152",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0166",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0177",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0178",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0179",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0180",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0182",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0185",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0188",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0199",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0221",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0232",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0307",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0091",
+   "reason": "Story promotionnelle / filigrane fournisseur (fast34, QR Snapchat)"
+  },
+  {
+   "photo": "p0007",
+   "reason": "Affiche / publicité fournisseur"
+  },
+  {
+   "photo": "p0008",
+   "reason": "Affiche / publicité fournisseur"
+  },
+  {
+   "photo": "p0021",
+   "reason": "Photo en vrac / plusieurs articles non exploitable"
+  },
+  {
+   "photo": "p0045",
+   "reason": "Photo en vrac / plusieurs articles non exploitable"
+  },
+  {
+   "photo": "p0046",
+   "reason": "Photo en vrac / plusieurs articles non exploitable"
+  },
+  {
+   "photo": "p0057",
+   "reason": "Photo en vrac / plusieurs articles non exploitable"
+  },
+  {
+   "photo": "p0077",
+   "reason": "Photo en vrac / plusieurs articles non exploitable"
+  },
+  {
+   "photo": "p0148",
+   "reason": "Photo en vrac / plusieurs articles non exploitable"
+  },
+  {
+   "photo": "p0189",
+   "reason": "Photo en vrac / plusieurs articles non exploitable"
+  },
+  {
+   "photo": "p0252",
+   "reason": "Photo en vrac / plusieurs articles non exploitable"
+  },
+  {
+   "photo": "p0265",
+   "reason": "Photo en vrac / plusieurs articles non exploitable"
+  },
+  {
+   "photo": "p0288",
+   "reason": "Photo en vrac / plusieurs articles non exploitable"
+  },
+  {
+   "photo": "p0272",
+   "reason": "Visuel éditorial de marque (mannequin) — droits à vérifier"
+  },
+  {
+   "photo": "p0273",
+   "reason": "Visuel éditorial de marque (mannequin) — droits à vérifier"
+  },
+  {
+   "photo": "p0274",
+   "reason": "Visuel éditorial de marque (mannequin) — droits à vérifier"
+  },
+  {
+   "photo": "p0275",
+   "reason": "Visuel éditorial de marque (mannequin) — droits à vérifier"
+  },
+  {
+   "photo": "p0284",
+   "reason": "Visuel éditorial de marque (mannequin) — droits à vérifier"
+  },
+  {
+   "photo": "p0285",
+   "reason": "Visuel éditorial de marque (mannequin) — droits à vérifier"
+  },
+  {
+   "photo": "p0286",
+   "reason": "Visuel éditorial de marque (mannequin) — droits à vérifier"
+  },
+  {
+   "photo": "p0526",
+   "reason": "Visuel éditorial de marque (mannequin) — droits à vérifier"
+  },
+  {
+   "photo": "p0527",
+   "reason": "Visuel éditorial de marque (mannequin) — droits à vérifier"
+  },
+  {
+   "photo": "p0530",
+   "reason": "Photo de contexte (portant de vêtements en boutique) : ne montre pas un article isolé"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g01",
+   "name": "Casquette Gucci noire monogramme (cuir)",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0037",
+    "p0038",
+    "p0039",
+    "p0040",
+    "p0041",
+    "p0042",
+    "p0043",
+    "p0044",
+    "p0612",
+    "p0613"
+   ],
+   "note": "logo GG visible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g02",
+   "name": "Casquette Gucci grise ruban GG",
+   "category": "Accessoires",
+   "confidence": "haute",
+   "photos": [
+    "p0049",
+    "p0050",
+    "p0051",
+    "p0052",
+    "p0053",
+    "p0054",
+    "p0055",
+    "p0056"
+   ],
+   "note": "étiquette Gucci lisible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g03",
+   "name": "Casquette bleue logo LV (denim)",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0022",
+    "p0023",
+    "p0024",
+    "p0025",
+    "p0026",
+    "p0027",
+    "p0028"
+   ],
+   "note": "boîte Louis Vuitton visible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g04",
+   "name": "Casquette blanche Burberry",
+   "category": "Accessoires",
+   "confidence": "haute",
+   "photos": [
+    "p0029",
+    "p0030",
+    "p0031",
+    "p0032",
+    "p0033",
+    "p0034",
+    "p0035",
+    "p0036"
+   ],
+   "note": "marque imprimée lisible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g05",
+   "name": "Bob motif FF (Fendi)",
+   "category": "Accessoires",
+   "confidence": "haute",
+   "photos": [
+    "p0014",
+    "p0015",
+    "p0016",
+    "p0017",
+    "p0018",
+    "p0019",
+    "p0020"
+   ],
+   "note": "étiquette Fendi lisible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g06",
+   "name": "Casquette The North Face x Gucci",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0151",
+    "p0153",
+    "p0154",
+    "p0155"
+   ],
+   "note": "inscriptions visibles",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g07",
+   "name": "Casquette Louis Vuitton noire",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0156",
+    "p0157",
+    "p0158",
+    "p0159",
+    "p0160"
+   ],
+   "note": "logo LV visible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g08",
+   "name": "Bob Burberry beige à carreaux",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0161",
+    "p0162",
+    "p0163"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g09",
+   "name": "Casquette Burberry beige (carreaux)",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0485",
+    "p0496",
+    "p0507",
+    "p0510"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g10",
+   "name": "Casquette Burberry gris clair",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0172",
+    "p0173",
+    "p0174",
+    "p0175",
+    "p0176"
+   ],
+   "note": "étiquette Burberry p0176",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g11",
+   "name": "Casquettes Chanel",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0164",
+    "p0165",
+    "p0167",
+    "p0289",
+    "p0290"
+   ],
+   "note": "plusieurs modèles : ne pas fusionner sans validation",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g12",
+   "name": "Casquette LV kaki/monogramme",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0217",
+    "p0218",
+    "p0219",
+    "p0220",
+    "p0222",
+    "p0223"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g13",
+   "name": "Bobs Dior oblique",
+   "category": "Accessoires",
+   "confidence": "haute",
+   "photos": [
+    "p0228",
+    "p0229",
+    "p0230"
+   ],
+   "note": "3 coloris distincts",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g14",
+   "name": "Casquettes Dior noire/blanche",
+   "category": "Accessoires",
+   "confidence": "haute",
+   "photos": [
+    "p0455",
+    "p0460",
+    "p0474"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g15",
+   "name": "Casquettes Prada (lot 3 coloris)",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0239"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g17",
+   "name": "Casquettes lot vrac (Gucci/LV)",
+   "category": "Accessoires",
+   "confidence": "basse",
+   "photos": [
+    "p0001",
+    "p0002",
+    "p0003",
+    "p0611",
+    "p0614"
+   ],
+   "note": "plusieurs casquettes par photo",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g18",
+   "name": "Lunettes T5004",
+   "category": "Accessoires",
+   "confidence": "haute",
+   "photos": [
+    "p0010",
+    "p0011",
+    "p0012",
+    "p0013"
+   ],
+   "note": "référence T5004 visible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g19",
+   "name": "Lunettes Cartier (lots)",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0009",
+    "p0092",
+    "p0194"
+   ],
+   "note": "lots multi-modèles",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g20",
+   "name": "Lunettes Prada",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0093",
+    "p0094",
+    "p0095"
+   ],
+   "note": "référence 5065 visible p0094-95",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g21",
+   "name": "Lunettes Chanel",
+   "category": "Accessoires",
+   "confidence": "basse",
+   "photos": [
+    "p0096",
+    "p0097"
+   ],
+   "note": "probables stories",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g22",
+   "name": "Lunettes Dior rondes",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0291",
+    "p0292",
+    "p0293",
+    "p0294",
+    "p0295",
+    "p0296",
+    "p0297",
+    "p0299",
+    "p0300"
+   ],
+   "note": "plusieurs coloris",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g23",
+   "name": "Lunettes lots divers",
+   "category": "Accessoires",
+   "confidence": "basse",
+   "photos": [
+    "p0231",
+    "p0233",
+    "p0348",
+    "p0349"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g24",
+   "name": "Chaussures de football orange",
+   "category": "Chaussures",
+   "confidence": "haute",
+   "photos": [
+    "p0064",
+    "p0065",
+    "p0066",
+    "p0067",
+    "p0068",
+    "p0069"
+   ],
+   "note": "swoosh visible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g25",
+   "name": "Chaussures de football vert d'eau",
+   "category": "Chaussures",
+   "confidence": "haute",
+   "photos": [
+    "p0070",
+    "p0071",
+    "p0072",
+    "p0073",
+    "p0074",
+    "p0075",
+    "p0076"
+   ],
+   "note": "swoosh visible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g26",
+   "name": "Bottes UGG mini",
+   "category": "Chaussures",
+   "confidence": "haute",
+   "photos": [
+    "p0168",
+    "p0169",
+    "p0170",
+    "p0171"
+   ],
+   "note": "marque lisible sur talon",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": false
+  },
+  {
+   "id": "g27",
+   "name": "Sneakers noires",
+   "category": "Chaussures",
+   "confidence": "basse",
+   "photos": [
+    "p0309",
+    "p0310",
+    "p0311",
+    "p0312",
+    "p0313",
+    "p0314",
+    "p0315"
+   ],
+   "note": "marque non certaine",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g28",
+   "name": "Crocs",
+   "category": "Chaussures",
+   "confidence": "moyenne",
+   "photos": [
+    "p0196",
+    "p0197"
+   ],
+   "note": "boîte Crocs lisible p0197",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g29",
+   "name": "Porte-cartes cuir type MagSafe",
+   "category": "High-Tech",
+   "confidence": "moyenne",
+   "photos": [
+    "p0081",
+    "p0082",
+    "p0083"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g30",
+   "name": "Batteries externes",
+   "category": "High-Tech",
+   "confidence": "moyenne",
+   "photos": [
+    "p0084"
+   ],
+   "note": "capacités inscrites",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g31",
+   "name": "Câbles USB-C Lightning",
+   "category": "High-Tech",
+   "confidence": "moyenne",
+   "photos": [
+    "p0085"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g32",
+   "name": "Casques type AirPods Max",
+   "category": "High-Tech",
+   "confidence": "moyenne",
+   "photos": [
+    "p0110",
+    "p0111",
+    "p0112",
+    "p0113",
+    "p0114",
+    "p0115",
+    "p0306",
+    "p0462",
+    "p0463",
+    "p0464",
+    "p0465",
+    "p0466",
+    "p0470",
+    "p0471",
+    "p0472",
+    "p0473"
+   ],
+   "note": "plusieurs coloris ; authenticité non établie",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g33",
+   "name": "AirPods (boîte, étui)",
+   "category": "High-Tech",
+   "confidence": "moyenne",
+   "photos": [
+    "p0456",
+    "p0457",
+    "p0458",
+    "p0459",
+    "p0461"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g34",
+   "name": "Montres connectées type Apple Watch",
+   "category": "High-Tech",
+   "confidence": "moyenne",
+   "photos": [
+    "p0116",
+    "p0117",
+    "p0118",
+    "p0119",
+    "p0120",
+    "p0121",
+    "p0208",
+    "p0209",
+    "p0210",
+    "p0211",
+    "p0467",
+    "p0468",
+    "p0469"
+   ],
+   "note": "plusieurs modèles",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g35",
+   "name": "Sèche-cheveux type Dyson Supersonic",
+   "category": "Maison",
+   "confidence": "moyenne",
+   "photos": [
+    "p0058",
+    "p0059",
+    "p0212",
+    "p0213",
+    "p0214",
+    "p0215",
+    "p0581",
+    "p0582",
+    "p0583",
+    "p0584",
+    "p0585",
+    "p0586",
+    "p0587",
+    "p0588",
+    "p0589",
+    "p0590",
+    "p0591"
+   ],
+   "note": "coloris multiples",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g36",
+   "name": "Aspirateurs type Dyson",
+   "category": "Maison",
+   "confidence": "moyenne",
+   "photos": [
+    "p0529",
+    "p0540",
+    "p0551",
+    "p0561",
+    "p0573",
+    "p0578",
+    "p0579",
+    "p0580"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g37",
+   "name": "Lisseur/boucleur type Dyson Airwrap",
+   "category": "Maison",
+   "confidence": "moyenne",
+   "photos": [
+    "p0475",
+    "p0476",
+    "p0477",
+    "p0478",
+    "p0479",
+    "p0480",
+    "p0481",
+    "p0482",
+    "p0483",
+    "p0484",
+    "p0486",
+    "p0487",
+    "p0488",
+    "p0489"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g38",
+   "name": "Casques moto Arai",
+   "category": "Autres",
+   "confidence": "haute",
+   "photos": [
+    "p0198",
+    "p0200",
+    "p0201",
+    "p0203",
+    "p0204",
+    "p0205",
+    "p0206"
+   ],
+   "note": "marque Arai visible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g39",
+   "name": "Montres G-Shock (coloris multiples)",
+   "category": "Montres et bijoux",
+   "confidence": "haute",
+   "photos": [
+    "p0251",
+    "p0253",
+    "p0254",
+    "p0255",
+    "p0256",
+    "p0257",
+    "p0258",
+    "p0259",
+    "p0260",
+    "p0261",
+    "p0262",
+    "p0263",
+    "p0264",
+    "p0266",
+    "p0267",
+    "p0268",
+    "p0269",
+    "p0270",
+    "p0271"
+   ],
+   "note": "logos G-Shock visibles",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g40",
+   "name": "Montres G-Shock coffret coeur",
+   "category": "Montres et bijoux",
+   "confidence": "moyenne",
+   "photos": [
+    "p0195"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g41",
+   "name": "Bracelets Love (coffret Cartier)",
+   "category": "Montres et bijoux",
+   "confidence": "moyenne",
+   "photos": [
+    "p0592",
+    "p0593",
+    "p0594",
+    "p0595",
+    "p0596",
+    "p0597"
+   ],
+   "note": "coffret visible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g42",
+   "name": "Bracelets clou",
+   "category": "Montres et bijoux",
+   "confidence": "moyenne",
+   "photos": [
+    "p0598",
+    "p0599",
+    "p0600",
+    "p0601",
+    "p0602",
+    "p0603",
+    "p0604"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g43",
+   "name": "Montres G-Shock métal/orange",
+   "category": "Montres et bijoux",
+   "confidence": "basse",
+   "photos": [
+    "p0609",
+    "p0610"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g44",
+   "name": "Vêtements Stone Island",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0241",
+    "p0242",
+    "p0243",
+    "p0244",
+    "p0245",
+    "p0246",
+    "p0247",
+    "p0248",
+    "p0249",
+    "p0250",
+    "p0298",
+    "p0302"
+   ],
+   "note": "plusieurs articles à séparer",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g45",
+   "name": "Vêtements C.P. Company (shorts)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0276",
+    "p0287",
+    "p0320",
+    "p0321",
+    "p0342"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g46",
+   "name": "Essentials (sweats, pantalons)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0282",
+    "p0283"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g47",
+   "name": "Christian Dior Atelier",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0277",
+    "p0278",
+    "p0279",
+    "p0280",
+    "p0281"
+   ],
+   "note": "broderie lisible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g49",
+   "name": "Vêtements lululemon (gilets)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0533",
+    "p0534",
+    "p0535",
+    "p0536",
+    "p0537",
+    "p0538",
+    "p0539"
+   ],
+   "note": "étiquette lululemon lisible",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g50",
+   "name": "Alo (ensembles sport)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0340",
+    "p0341",
+    "p0343",
+    "p0344",
+    "p0345",
+    "p0346",
+    "p0347",
+    "p0350",
+    "p0353"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g51",
+   "name": "Alo (sacs)",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0240"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g52",
+   "name": "Bandeaux On",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0319",
+    "p0322",
+    "p0323",
+    "p0324",
+    "p0325",
+    "p0326",
+    "p0327",
+    "p0328"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g53",
+   "name": "Coques de téléphone",
+   "category": "High-Tech",
+   "confidence": "moyenne",
+   "photos": [
+    "p0331",
+    "p0332",
+    "p0333",
+    "p0334",
+    "p0335",
+    "p0336",
+    "p0337"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g54",
+   "name": "Sacs (LV rose, Coach, bandoulières)",
+   "category": "Accessoires",
+   "confidence": "moyenne",
+   "photos": [
+    "p0234",
+    "p0235",
+    "p0236",
+    "p0237",
+    "p0238",
+    "p0227",
+    "p0301",
+    "p0303",
+    "p0304",
+    "p0305",
+    "p0329",
+    "p0330",
+    "p0338"
+   ],
+   "note": "plusieurs modèles",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g58",
+   "name": "Divers à classer",
+   "category": "Autres",
+   "confidence": "basse",
+   "photos": [
+    "p0005",
+    "p0006",
+    "p0047",
+    "p0060",
+    "p0079"
+   ],
+   "note": "",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "g99",
+   "name": "Non classées — produit à valider",
+   "category": "Catégorie incertaine — validation nécessaire",
+   "confidence": "aucune",
+   "photos": [
+    "p0186",
+    "p0187",
+    "p0193",
+    "p0207",
+    "p0404"
+   ],
+   "note": "non attribuées après revue",
+   "status": "a_valider",
+   "grouping": "Regroupement à valider",
+   "broad": true
+  },
+  {
+   "id": "m001",
+   "name": "Maillot Palestine rouge uni",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0123"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Rouge"
+  },
+  {
+   "id": "m002",
+   "name": "Maillot Palestine rouge floqué 00",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0124"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Rouge"
+  },
+  {
+   "id": "m003",
+   "name": "Maillot \"Bank of Palestine\" bordeaux",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0125"
+   ],
+   "note": "Sponsor visible, sélection non certaine",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": "Bordeaux"
+  },
+  {
+   "id": "m004",
+   "name": "Maillot \"San Jorge\" rouge",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0126"
+   ],
+   "note": "Club non identifié avec certitude",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": "Rouge"
+  },
+  {
+   "id": "m005",
+   "name": "Ensemble maillot + short Arsenal \"Emirates\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0127",
+    "p0128"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Bleu marine/turquoise"
+  },
+  {
+   "id": "m006",
+   "name": "Ensemble maillot + short bleu marine (club non identifié)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0129"
+   ],
+   "note": "Sans sponsor ni écusson visible — club non identifié",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": "Bleu marine"
+  },
+  {
+   "id": "m007",
+   "name": "Ensemble PSG \"Qatar Airways\" blanc",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0130",
+    "p0131",
+    "p0132"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Nike",
+   "color": "Blanc"
+  },
+  {
+   "id": "m008",
+   "name": "Ensemble débardeur + short bleu (club non identifié)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0134"
+   ],
+   "note": "Aucune marque ni écusson visible",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Bleu"
+  },
+  {
+   "id": "m009",
+   "name": "Maillot losange marine (sélection non identifiée)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0135",
+    "p0136"
+   ],
+   "note": "Écusson non identifiable",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Bleu marine"
+  },
+  {
+   "id": "m010",
+   "name": "Maillot Maroc rouge",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0137"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Rouge"
+  },
+  {
+   "id": "m011",
+   "name": "Maillot rouge à liseré vert (sélection non identifiée)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0138"
+   ],
+   "note": "Motif proche de #123 mais différent — sélection non confirmée",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Rouge/vert"
+  },
+  {
+   "id": "m012",
+   "name": "Maillot Maroc rose (texte arabe)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0139",
+    "p0140"
+   ],
+   "note": "À confirmer : même maillot que #141 (faces différentes) ?",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "Puma",
+   "color": "Rose"
+  },
+  {
+   "id": "m013",
+   "name": "Maillot Maroc rose \"MOROCCO\"",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0141",
+    "p0142"
+   ],
+   "note": "À confirmer : même maillot que #139 (faces différentes) ?",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "Puma",
+   "color": "Rose"
+  },
+  {
+   "id": "m014",
+   "name": "Maillot Maroc violet marbré",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0143",
+    "p0145"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Violet"
+  },
+  {
+   "id": "m015",
+   "name": "Ensemble enfant maillot + short écru",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0146",
+    "p0147"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Écru"
+  },
+  {
+   "id": "m016",
+   "name": "Maillot Mexique vert (motif aztèque)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0351"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Vert"
+  },
+  {
+   "id": "m017",
+   "name": "Maillot Allemagne blanc (style rétro)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0352"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Blanc"
+  },
+  {
+   "id": "m018",
+   "name": "Maillot bleu marine (motif clair, sélection non identifiée)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0354"
+   ],
+   "note": "Écusson non lisible",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Bleu marine"
+  },
+  {
+   "id": "m019",
+   "name": "Maillot blanc liseré rouge/noir (sélection non identifiée)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0355"
+   ],
+   "note": "Écusson non lisible",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Blanc"
+  },
+  {
+   "id": "m020",
+   "name": "Maillot Maroc rouge (2e modèle)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0356"
+   ],
+   "note": "Modèle différent de #137",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Rouge"
+  },
+  {
+   "id": "m021",
+   "name": "Maillot bleu (sélection non identifiée)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0357"
+   ],
+   "note": "Écusson non lisible",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Bleu"
+  },
+  {
+   "id": "m022",
+   "name": "Maillot Sénégal blanc/vert",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0358"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Blanc"
+  },
+  {
+   "id": "m023",
+   "name": "Maillot bordeaux liseré jaune (sélection non identifiée)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0359"
+   ],
+   "note": "Écusson non lisible",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Bordeaux"
+  },
+  {
+   "id": "m024",
+   "name": "Maillot bordeaux dégradé (sélection non identifiée)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0360"
+   ],
+   "note": "Possible variante du maillot précédent — à confirmer",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": "Bordeaux"
+  },
+  {
+   "id": "m025",
+   "name": "Maillot Argentine bleu/blanc",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0361"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Bleu/blanc"
+  },
+  {
+   "id": "m026",
+   "name": "Maillot menthe marbré (sélection non identifiée)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0362"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Menthe"
+  },
+  {
+   "id": "m027",
+   "name": "Maillot Sénégal vert",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0363"
+   ],
+   "note": "Coloris différent de #358",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Vert"
+  },
+  {
+   "id": "m028",
+   "name": "Maillot Colombie jaune",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0365"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Jaune"
+  },
+  {
+   "id": "m029",
+   "name": "Maillot Arabie Saoudite vert",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0366"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Vert"
+  },
+  {
+   "id": "m030",
+   "name": "Maillot Italie bleu",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0367"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Bleu"
+  },
+  {
+   "id": "m031",
+   "name": "Maillot Belgique rouge",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0368"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Rouge"
+  },
+  {
+   "id": "m032",
+   "name": "Maillot rose fuchsia (club non identifié)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0369"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Rose"
+  },
+  {
+   "id": "m033",
+   "name": "Maillot Italie blanc (style rétro)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0370"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Blanc"
+  },
+  {
+   "id": "m034",
+   "name": "Maillot Algérie blanc",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0371"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Blanc"
+  },
+  {
+   "id": "m035",
+   "name": "Maillot Mexique blanc/or (motif aigle)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0372"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Blanc"
+  },
+  {
+   "id": "m036",
+   "name": "Maillot Canada rouge",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0373"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Nike",
+   "color": "Rouge"
+  },
+  {
+   "id": "m037",
+   "name": "Maillot Écosse marine",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0374"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Bleu marine"
+  },
+  {
+   "id": "m038",
+   "name": "Maillot Mexique vert (motif aigle doré)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0376"
+   ],
+   "note": "Très proche de #378 — à confirmer si modèle distinct",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "Adidas",
+   "color": "Vert"
+  },
+  {
+   "id": "m039",
+   "name": "Maillot Mexique blanc (broderie colorée)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0377"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Blanc"
+  },
+  {
+   "id": "m040",
+   "name": "Maillot Mexique vert (motif aigle doré, 2e photo)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0378"
+   ],
+   "note": "Très proche de #376 — probable doublon ou second exemplaire, à confirmer",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "Adidas",
+   "color": "Vert"
+  },
+  {
+   "id": "m041",
+   "name": "Maillot Mexique crème/or (motif aigle)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0379"
+   ],
+   "note": "Proche de #372 — à confirmer si modèle distinct",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": "Crème"
+  },
+  {
+   "id": "m042",
+   "name": "Maillot gris foncé (sélection non identifiée)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0380"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Gris"
+  },
+  {
+   "id": "m043",
+   "name": "Maillot Suisse vert pâle (gardien)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0381"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Vert pâle"
+  },
+  {
+   "id": "m044",
+   "name": "Maillot Jamaïque jaune/noir",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0382"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Jaune"
+  },
+  {
+   "id": "m045",
+   "name": "Maillot marine liseré rose \"Emirates\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0383",
+    "p0384"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Bleu marine"
+  },
+  {
+   "id": "m046",
+   "name": "Maillot Newcastle vert \"sela\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0385",
+    "p0386"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Vert"
+  },
+  {
+   "id": "m047",
+   "name": "Maillot Rennes rouge/noir \"Samsic\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0387",
+    "p0388"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Rouge/noir"
+  },
+  {
+   "id": "m048",
+   "name": "Maillot Benfica crème \"Emirates\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0390"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Crème"
+  },
+  {
+   "id": "m049",
+   "name": "Maillot Benfica beige \"Emirates\" (2e modèle)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0391"
+   ],
+   "note": "Coloris différent de #390",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Beige"
+  },
+  {
+   "id": "m050",
+   "name": "Maillot Marseille blanc \"CMA CGM\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0392",
+    "p0393"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Blanc"
+  },
+  {
+   "id": "m051",
+   "name": "Maillot Club América \"Caliente.mx\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0394",
+    "p0395"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Bleu"
+  },
+  {
+   "id": "m052",
+   "name": "Maillot marine motif vagues (club non identifié)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0396",
+    "p0397"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Bleu marine"
+  },
+  {
+   "id": "m053",
+   "name": "Maillot vert menthe \"Standard Chartered\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0398"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Vert menthe"
+  },
+  {
+   "id": "m054",
+   "name": "Maillot Liverpool rouge \"Standard Chartered\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0399",
+    "p0400"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Rouge"
+  },
+  {
+   "id": "m055",
+   "name": "Maillot Marseille marine \"CMA CGM\" (2e modèle)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0401",
+    "p0402"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Bleu marine"
+  },
+  {
+   "id": "m056",
+   "name": "Maillot Manchester City noir \"Etihad\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0403"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Noir"
+  },
+  {
+   "id": "m057",
+   "name": "Maillot crème \"Standard Chartered\" (club non identifié)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0405",
+    "p0406"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Crème"
+  },
+  {
+   "id": "m058",
+   "name": "Maillot Valence rouge \"TM Real Estate Group\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0407",
+    "p0408"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Rouge"
+  },
+  {
+   "id": "m059",
+   "name": "Maillot Athletic Bilbao marine \"Kutxabank\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0409",
+    "p0411"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Bleu marine"
+  },
+  {
+   "id": "m060",
+   "name": "Maillot Lyon blanc \"Emirates\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0410",
+    "p0415"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Blanc"
+  },
+  {
+   "id": "m061",
+   "name": "Maillot noir/blanc \"BBVA Codere\" (club non identifié)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0412",
+    "p0413"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Noir/blanc"
+  },
+  {
+   "id": "m062",
+   "name": "Maillot Barcelone rose \"Spotify\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0414"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Rose"
+  },
+  {
+   "id": "m063",
+   "name": "Maillot Real Madrid rouge \"Standard Chartered\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0416"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Rouge"
+  },
+  {
+   "id": "m064",
+   "name": "Maillot marbré violet \"Boulanger\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0417"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Violet"
+  },
+  {
+   "id": "m065",
+   "name": "Maillot bleu (club non identifié)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0418"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Bleu"
+  },
+  {
+   "id": "m066",
+   "name": "Maillot PSG rouge \"Qatar Airways\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0419"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Nike",
+   "color": "Rouge"
+  },
+  {
+   "id": "m067",
+   "name": "Maillot Atlético Madrid bleu ciel \"Riyadh Air\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0420"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Nike",
+   "color": "Bleu ciel"
+  },
+  {
+   "id": "m068",
+   "name": "Maillot Marseille bleu \"CMA CGM\" (3e modèle)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0421"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Bleu"
+  },
+  {
+   "id": "m069",
+   "name": "Maillot Chelsea gris/noir",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0423"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Nike",
+   "color": "Gris"
+  },
+  {
+   "id": "m070",
+   "name": "Maillot Inter Milan marine/orange \"Betsson\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0424"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Nike",
+   "color": "Bleu marine"
+  },
+  {
+   "id": "m071",
+   "name": "Maillot PSG gris \"Qatar Airways\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0425",
+    "p0427"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Jordan",
+   "color": "Gris"
+  },
+  {
+   "id": "m072",
+   "name": "Maillot Marseille beige/or \"CMA CGM\" (4e modèle)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0426"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Beige"
+  },
+  {
+   "id": "m073",
+   "name": "Maillot Marseille turquoise \"CMA CGM\" (5e modèle)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0428"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Turquoise"
+  },
+  {
+   "id": "m074",
+   "name": "Maillot Real Madrid blanc \"Emirates\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0429"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Blanc"
+  },
+  {
+   "id": "m075",
+   "name": "Maillot Tigres UANL orange \"Cemex\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0430"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Orange"
+  },
+  {
+   "id": "m076",
+   "name": "Maillot Manchester City blanc/noir",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0431"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Blanc"
+  },
+  {
+   "id": "m077",
+   "name": "Maillot Manchester City bleu ciel \"Etihad\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0432"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Bleu ciel"
+  },
+  {
+   "id": "m078",
+   "name": "Maillot bleu ciel (écusson couronne, club non identifié)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0434"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Bleu ciel"
+  },
+  {
+   "id": "m079",
+   "name": "Maillot AC Milan noir/rouge \"Emirates\" rayé",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0435"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Noir/rouge"
+  },
+  {
+   "id": "m080",
+   "name": "Maillot blanc/or \"BMO\" (club non identifié)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0436"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Blanc"
+  },
+  {
+   "id": "m081",
+   "name": "Maillot Arsenal jaune \"Emirates\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0437"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Jaune"
+  },
+  {
+   "id": "m082",
+   "name": "Maillot AC Milan blanc/noir \"Emirates\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0438"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Blanc"
+  },
+  {
+   "id": "m083",
+   "name": "Maillot AC Milan jaune \"Emirates\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0439"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Jaune"
+  },
+  {
+   "id": "m084",
+   "name": "Maillot Tottenham gris camouflage",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0440"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Nike",
+   "color": "Gris"
+  },
+  {
+   "id": "m085",
+   "name": "Maillot Club América vert foncé \"Cemex\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0441"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Vert foncé"
+  },
+  {
+   "id": "m086",
+   "name": "Maillot Manchester United rouge \"Snapdragon\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0442"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Rouge"
+  },
+  {
+   "id": "m087",
+   "name": "Maillot Bayern blanc/rose camouflage",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0443"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Puma",
+   "color": "Blanc/rose"
+  },
+  {
+   "id": "m088",
+   "name": "Maillot Real Madrid bleu \"Emirates\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0445"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Bleu"
+  },
+  {
+   "id": "m089",
+   "name": "Maillot Manchester United noir/jaune \"Snapdragon\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0446"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Noir"
+  },
+  {
+   "id": "m090",
+   "name": "Maillot Newcastle noir/blanc rayé \"sela\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0447"
+   ],
+   "note": "Différent du modèle vert #385/386",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Noir/blanc"
+  },
+  {
+   "id": "m091",
+   "name": "Maillot Atlético Madrid gris \"Riyadh Air\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0448"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Nike",
+   "color": "Gris"
+  },
+  {
+   "id": "m092",
+   "name": "Maillot Ajax blanc/rouge \"Ziggo\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0449"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Blanc"
+  },
+  {
+   "id": "m093",
+   "name": "Maillot Sporting Portugal vert/blanc \"Betano\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0450"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Vert/blanc"
+  },
+  {
+   "id": "m094",
+   "name": "Maillot Real Madrid marine \"Emirates\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0451"
+   ],
+   "note": "Photo unique de ce modèle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Bleu marine"
+  },
+  {
+   "id": "m095",
+   "name": "Maillot Benfica blanc/rouge \"Emirates\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0452"
+   ],
+   "note": "Différent du modèle crème #390/391",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Adidas",
+   "color": "Blanc"
+  },
+  {
+   "id": "m096",
+   "name": "Maillot PSG bleu \"Qatar Airways\"",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0454"
+   ],
+   "note": "Différent du modèle rouge #419",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Nike",
+   "color": "Bleu"
+  },
+  {
+   "id": "m097",
+   "name": "Ensemble enfant maillot + short (motif éponge Barça/Maroc)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0316",
+    "p0317",
+    "p0318"
+   ],
+   "note": "Analyse confirmée : même ensemble sous plusieurs angles",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "gg01",
+   "name": "Casquette Gucci GG grise/bleue (arrière-plan)",
+   "category": "Accessoires",
+   "confidence": "basse",
+   "photos": [
+    "p0364",
+    "p0375",
+    "p0389",
+    "p0409",
+    "p0422",
+    "p0433",
+    "p0444",
+    "p0453"
+   ],
+   "note": "Visible en second plan sur des photos de maillots, toujours au même angle : probablement le même exemplaire photographié à plusieurs reprises, mais impossible à garantir. À vérifier visuellement avant publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "Gucci",
+   "color": "Gris/bleu"
+  },
+  {
+   "id": "gg02",
+   "name": "Casquette Gucci GG beige/marron",
+   "category": "Accessoires",
+   "confidence": "haute",
+   "photos": [
+    "p0605",
+    "p0606"
+   ],
+   "note": "Deux photos du même exemplaire (boîte Gucci visible)",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Gucci",
+   "color": "Beige/marron"
+  },
+  {
+   "id": "gg03",
+   "name": "Sandale Gucci verte (à valider)",
+   "category": "Chaussures",
+   "confidence": "basse",
+   "photos": [
+    "p0607"
+   ],
+   "note": "Photo isolée retirée du regroupement casquettes (ce n'est pas une casquette) ; une seule vue disponible, modèle à confirmer",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "Gucci",
+   "color": "Vert"
+  },
+  {
+   "id": "gg04",
+   "name": "Pochette Gucci — intérieur (à valider)",
+   "category": "Accessoires",
+   "confidence": "aucune",
+   "photos": [
+    "p0608"
+   ],
+   "note": "Photo isolée retirée du regroupement casquettes (ce n'est pas une casquette) ; vue d'intérieur de rangement, produit non identifiable avec certitude",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "on001",
+   "name": "Veste zippée bicolore blanc/noir (logo On brodé)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0490"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Blanc/noir"
+  },
+  {
+   "id": "on002",
+   "name": "Veste zippée logo \"On\" (lot plié, plusieurs coloris)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0491"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on003",
+   "name": "Veste zippée noire logo On (+ autres coloris en arrière-plan)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0492"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": "Noir"
+  },
+  {
+   "id": "on004",
+   "name": "Veste zippée blanc/noir logo On (+ autres coloris en arrière-plan)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0493"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": "Blanc/noir"
+  },
+  {
+   "id": "on005",
+   "name": "Gilets sans manches On (lot 4 coloris : blanc, noir, gris, marine)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0494"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on006",
+   "name": "Vestes zippées On (lot 3 coloris)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0495"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on007",
+   "name": "Manchons/protège-bras On (2 coloris : écru, marine)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0497"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on008",
+   "name": "Pulls demi-zip On (lot 3 coloris : marine, gris, noir)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0498"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on009",
+   "name": "Pantalon jogging bicolore noir/gris On",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0499"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Noir/gris"
+  },
+  {
+   "id": "on010",
+   "name": "Vestes zippées On (lot 3 coloris : noir, écru/noir, noir)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0500"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on011",
+   "name": "Ensembles veste + pantalon On (lot, mannequins)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0501"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on012",
+   "name": "Détails matière et étiquettes On",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0502"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Photos de détail (tissu, étiquette) — ne permettent pas d'identifier un article précis",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on013",
+   "name": "Vestes demi-zip On (2 coloris : bleu-gris, marine) + pantalons",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0503"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on014",
+   "name": "Pantalons jogging On (plusieurs, écru/noir)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0504"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on015",
+   "name": "Ensemble veste + pantalon terracotta On",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0505"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Terracotta"
+  },
+  {
+   "id": "on016",
+   "name": "Ensemble veste + pantalon écru On",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0506"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Écru"
+  },
+  {
+   "id": "on017",
+   "name": "Ensembles veste + pantalon kaki/gris On (lot)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0508"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on018",
+   "name": "Sweat à capuche marine On",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0509"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Marine"
+  },
+  {
+   "id": "on019",
+   "name": "Sweats à capuche On (lot 4 coloris pliés)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0511"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on020",
+   "name": "Sweat à capuche gris On",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0512"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Gris"
+  },
+  {
+   "id": "on021",
+   "name": "Détail poignets sweats On (3 coloris)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0513"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Photo de détail tissu",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on022",
+   "name": "Sweats à capuche On (lot 4 coloris, capuches relevées)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0514"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on023",
+   "name": "Sweat à capuche noir On",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0515"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Noir"
+  },
+  {
+   "id": "on024",
+   "name": "Sweats à capuche On (lot, empilés)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0516"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Probable même lot que la photo précédente sous un autre angle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on025",
+   "name": "Sweats à capuche On (lot, empilés, 2e angle)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0517"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Probable même lot que la photo précédente sous un autre angle",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on026",
+   "name": "Vestes demi-zip On (lot 4 coloris : marine, blanc, noir, bordeaux)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0518"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on027",
+   "name": "Veste zippée blanc/gris On",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0519"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Blanc/gris"
+  },
+  {
+   "id": "on028",
+   "name": "Détail tissu veste vert/marine (marque non identifiable)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0520"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Photo de détail — marque non lisible",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "on029",
+   "name": "Veste à capuche bleue bicolore On",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0521",
+    "p0522"
+   ],
+   "note": "À confirmer : même veste que la photo suivante (vue avant/arrière) ? / À confirmer : même veste que la photo précédente (vue avant/arrière) ?",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": "Bleu"
+  },
+  {
+   "id": "on030",
+   "name": "Veste zippée bicolore vert/marine On",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0523"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Vert/marine"
+  },
+  {
+   "id": "on031",
+   "name": "Gilets sans manches On (lot 3 coloris : gris, écru, noir)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0524"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on032",
+   "name": "Gilets sans manches gris/noir On (lot 2)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0525"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": "Gris/noir"
+  },
+  {
+   "id": "on033",
+   "name": "Gilet sans manches gris anthracite On",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0528"
+   ],
+   "note": "Modèle proche du lot de gilets photographié séparément (p0525) — vérifier avant de compter comme un article distinct.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": "Gris anthracite"
+  },
+  {
+   "id": "on034",
+   "name": "Détail matière gilet gris/écru",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0531"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Photo de détail tissu",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "on035",
+   "name": "Gilet gris/écru plié (détail)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0532"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Gris/écru"
+  },
+  {
+   "id": "on036",
+   "name": "Veste matelassée grise + pull gris (2 articles)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0541"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "on037",
+   "name": "Pull col montant gris",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0542"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Gris"
+  },
+  {
+   "id": "on038",
+   "name": "Gilets sans manches logo \"R\" (lot 5 coloris)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0543"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Logo circulaire \"R\", marque différente d'On — à confirmer",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "on039",
+   "name": "Gilets sans manches logo \"R\" (lot, autre présentation)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0544"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Logo circulaire \"R\", marque différente d'On — à confirmer ; probable même lot que la photo précédente",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "on040",
+   "name": "Gilets sans manches logo \"R\" (lot 5 coloris, 3e vue)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0545"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Logo circulaire \"R\", marque différente d'On — à confirmer ; probable même lot que les 2 photos précédentes",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "on041",
+   "name": "Gilets sans manches logo \"R\" (lot 4 coloris, présentation étiquette)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0546"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Logo circulaire \"R\", marque différente d'On — à confirmer",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "on042",
+   "name": "Gilet sans manches jaune moutarde logo R",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0547",
+    "p0548"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Jaune moutarde"
+  },
+  {
+   "id": "on043",
+   "name": "Gilet sans manches bleu roi logo R",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0549"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Bleu roi"
+  },
+  {
+   "id": "on044",
+   "name": "Gilet sans manches kaki logo R",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0550"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Kaki"
+  },
+  {
+   "id": "on045",
+   "name": "Gilet sans manches blanc logo R",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0552"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Blanc"
+  },
+  {
+   "id": "on046",
+   "name": "Gilet sans manches marine logo R",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0553"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Marine"
+  },
+  {
+   "id": "on047",
+   "name": "Veste à capuche marine (fond zébré)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0554",
+    "p0555"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Marine"
+  },
+  {
+   "id": "on048",
+   "name": "Veste à capuche violette (fond zébré)",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0556",
+    "p0557"
+   ],
+   "note": "À confirmer : même veste que la photo suivante ? / À confirmer : même veste que la photo précédente ?",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": "Violet"
+  },
+  {
+   "id": "on049",
+   "name": "Vestes à capuche (lot 3 coloris : marine, violet, gris)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0558"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "on050",
+   "name": "Vestes à capuche (lot, autre présentation)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0559"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Probable même lot que la photo précédente",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "on051",
+   "name": "Détail tissu veste violette imperméable",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0560"
+   ],
+   "note": "Photo de détail",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": null,
+   "color": "Violet"
+  },
+  {
+   "id": "on052",
+   "name": "Détail capuche/fermeture veste marine",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0562"
+   ],
+   "note": "Logo On visible sur la fermeture",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Marine"
+  },
+  {
+   "id": "on053",
+   "name": "T-shirts unis (lot 3 coloris : blanc, beige)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0563"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication. / Logo non clairement visible sur cette photo",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": null
+  },
+  {
+   "id": "on054",
+   "name": "T-shirts logo On rouge (lot : noir, beige, gris)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0564"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on055",
+   "name": "T-shirts logo On rouge (lot : noir, beige, blanc)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0565"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on056",
+   "name": "T-shirts logo On (lot : gris, noir, beige)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0566"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on057",
+   "name": "Détail logo On sur manche (noir/beige)",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0567"
+   ],
+   "note": "Photo de détail",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on058",
+   "name": "T-shirts logo On (lot : menthe, blanc, gris)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0568"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on059",
+   "name": "T-shirts logo On (lot : blanc, menthe)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0569"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on060",
+   "name": "T-shirts logo On (lot : marine, menthe, gris)",
+   "category": "Vêtements",
+   "confidence": "basse",
+   "photos": [
+    "p0570"
+   ],
+   "note": "Plusieurs articles/coloris visibles sur une même photo — à séparer en fiches individuelles dans l'administration (une couleur = une fiche) avant toute publication.",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": "On",
+   "color": null
+  },
+  {
+   "id": "on061",
+   "name": "T-shirt noir camouflage logo On",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0571"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Noir"
+  },
+  {
+   "id": "on062",
+   "name": "T-shirt écru camouflage logo R",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0572"
+   ],
+   "note": "Logo \"R\" différent du logo On — marque non confirmée",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": "Écru"
+  },
+  {
+   "id": "on063",
+   "name": "T-shirt blanc camouflage logo On",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0574"
+   ],
+   "note": "Photo unique de cet article",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "On",
+   "color": "Blanc"
+  },
+  {
+   "id": "on064",
+   "name": "T-shirt vert menthe camouflage logo R",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0575"
+   ],
+   "note": "Logo \"R\" différent du logo On — marque non confirmée",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": "Vert menthe"
+  },
+  {
+   "id": "on065",
+   "name": "T-shirt gris foncé camouflage logo R",
+   "category": "Vêtements",
+   "confidence": "moyenne",
+   "photos": [
+    "p0576"
+   ],
+   "note": "Logo \"R\" différent du logo On — marque non confirmée",
+   "grouping": "Analyse individuelle terminée",
+   "broad": true,
+   "brand": null,
+   "color": "Gris foncé"
+  },
+  {
+   "id": "on066",
+   "name": "Ensemble t-shirt + short noir Nike",
+   "category": "Vêtements",
+   "confidence": "haute",
+   "photos": [
+    "p0577"
+   ],
+   "note": "Photo isolée dans le lot \"On\" : marque Nike visible, à part",
+   "grouping": "Analyse individuelle terminée",
+   "broad": false,
+   "brand": "Nike",
+   "color": "Noir"
+  }
+ ]
+}
